@@ -1,0 +1,6 @@
+C:\Users\D7\Desktop\vasilev\YourRailWayLibrary\bin\Debug\YourRailWayLibrary.dll
+C:\Users\D7\Desktop\vasilev\YourRailWayLibrary\bin\Debug\YourRailWayLibrary.pdb
+C:\Users\D7\Desktop\vasilev\YourRailWayLibrary\obj\Debug\YourRailWayLibrary.csprojAssemblyReference.cache
+C:\Users\D7\Desktop\vasilev\YourRailWayLibrary\obj\Debug\YourRailWayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\D7\Desktop\vasilev\YourRailWayLibrary\obj\Debug\YourRailWayLibrary.dll
+C:\Users\D7\Desktop\vasilev\YourRailWayLibrary\obj\Debug\YourRailWayLibrary.pdb

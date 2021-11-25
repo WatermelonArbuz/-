@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\курсач\YourRailWayLibrary\bin\Debug\YourRailWayLibrary.dll
+C:\Users\User\Desktop\курсач\YourRailWayLibrary\bin\Debug\YourRailWayLibrary.pdb
+C:\Users\User\Desktop\курсач\YourRailWayLibrary\obj\Debug\DaciaSanderoRent.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\курсач\YourRailWayLibrary\obj\Debug\DaciaSanderoRent.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсач\YourRailWayLibrary\obj\Debug\YourRailWayLibrary.dll
+C:\Users\User\Desktop\курсач\YourRailWayLibrary\obj\Debug\YourRailWayLibrary.pdb
